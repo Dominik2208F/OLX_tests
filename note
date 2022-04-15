@@ -1,0 +1,4 @@
+Zadanie przedstawia przypadek testowy uwzględniający rejestracje w portalu OLX.
+Przypadek rozwinięty o sprawdzenie URL i tytułu strony.
+Napisane testy zostały z wykorzystaniem wzorca Page Object Model w środowisku eclipse przy wykorzystanu biblioteki TestNG w języku JAVA
+POM ponieważ: odziela testy od miejsca przechowywania ściezek, pozwala łatwiej utrzymać testy w przypadku zmianny selektorów.
